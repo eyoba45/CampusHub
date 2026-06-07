@@ -26,4 +26,4 @@ No  Student Name               ID Number
 2. Eyob Mulugeta              UGE/27803/14
 3. Metiol Alemayehu           UGE/27815/14
 4. Ruth Eshehtu                UGE/27811/14
-6. Zelalem Endale             UGE/27821/14
+6. zelalem Endale              UGE/27821/14
